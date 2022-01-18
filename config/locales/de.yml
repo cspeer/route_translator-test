@@ -1,0 +1,6 @@
+de:
+  routes:
+    products: produkte
+    controllers:
+      admin:
+        products: produkte2
